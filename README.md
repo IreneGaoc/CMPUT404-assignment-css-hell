@@ -34,4 +34,6 @@ Irene Gao
 
 References:
 =================
-background picure found from: https://backgroundcheckall.com/wp-content/uploads/2017/12/light-textured-background-8.jpg
+* background picure found from: https://backgroundcheckall.com/wp-content/uploads/2017/12/light-textured-background-8.jpg
+* css background image implementation:https://css-tricks.com/perfect-full-page-background-image/
+* css source code: http://www.htmlandcssbook.com/code-samples/chapter-17/example-with-links.html
