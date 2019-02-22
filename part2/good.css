@@ -28,6 +28,7 @@ body {
     margin-left: 0px;
     margin-right:0px;
     margin-top:0px;
+    margin-bottom: 0px;
     height: 120px;
     }
 h1 {
@@ -43,8 +44,8 @@ nav, footer {
     font-family: "Comic Sans MS", cursive, sans-serif;
     color: snow;
     background-color: black;
-    margin-bottom:0px;
-    height: 35px;}
+    margin-bottom:5px;
+    height: 30px;}
 nav ul {
     margin: 0px;
     padding: 5px 0px 10px 330px;}
